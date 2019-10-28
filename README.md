@@ -16,9 +16,4 @@ In this lesson I learnt some cool HTML basics like:
   
   Note: If you're using brackets and the live preview is not working watch this video: https://www.youtube.com/watch?v=XfbR3a59RoQ
 
-
-
-<img src="#">
-(Ordered "<OL>" and Unordered "<UL>")
-  "<table>--><tr>--><td>"
-  "<form>--><input type=type>"
+  Everything implemented in the attached HTML file, enjoy!
